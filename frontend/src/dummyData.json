@@ -1,0 +1,91 @@
+{
+    "users" : [
+        {
+            "id" : "a",
+            "password": 1234,
+            "nickname": "부도현"
+        },
+        {
+            "id" : "b",
+            "password": 1234,
+            "nickname": "bb"
+        },
+        {
+            "id" : "c",
+            "password": 1234,
+            "nickname": "cc"
+        }
+    ],
+
+    "levels" : [
+        {"id": 1, "level": "Easy"},
+        {"id": 2, "level": "Normal"},
+        {"id": 3, "level": "Hard"}
+    ],
+
+    "problems": [
+        {
+            "id": 1,
+            "level": "Easy",
+            "number": 1,
+            "seen": true,
+            "accuracy": 100
+        },
+        {
+            "id": 2,
+            "level": "Easy",
+            "number": 2,
+            "seen": true,
+            "accuracy": 0
+        },
+        {
+            "id": 3,
+            "level": "Easy",
+            "number": 3,
+            "seen": true,
+            "accuracy": 100
+        },
+        {
+            "id": 4,
+            "level": "Easy",
+            "number": 4,
+            "seen": false,
+            "accuracy": 0
+        },
+        {
+            "id": 5,
+            "level": "Easy",
+            "number": 5,
+            "seen": false,
+            "accuracy": 0
+        },
+        {
+            "id": 6,
+            "level": "Normal",
+            "number": 1,
+            "seen": true,
+            "accuracy": 50
+        },
+        {
+            "id": 7,
+            "level": "Normal",
+            "number": 2,
+            "seen": false,
+            "accuracy": 0
+        },
+        {
+            "id": 8,
+            "level": "Normal",
+            "number": 3,
+            "seen": true,
+            "accuracy": 50
+        },
+        {
+            "id": 9,
+            "level": "Hard",
+            "number": 1,
+            "seen": true,
+            "accuracy": 100
+        }
+    ]
+}
